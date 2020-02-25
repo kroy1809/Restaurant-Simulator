@@ -1,0 +1,14 @@
+In Restaurant 6431, there are 1 tables, 5 cooks, and 2 dinner will be coming.
+[1] Diner 0 arrives.
+[1] Diner 0 is seated at table 0.
+[1] Diner 0's order will be processed by Cook 4.
+[1] Cook 4 takes the machine for Buckeye Burger.
+[2] Diner 1 arrives.
+[6] Diner 0's food is ready. Diner 0 starts to eat.
+[36] Diner 0 leaves.
+[36] Diner 1 is seated at table 0.
+[36] Diner 1's order will be processed by Cook 4.
+[36] Cook 4 takes the machine for Buckeye Burger.
+[41] Diner 1's food is ready. Diner 1 starts to eat.
+[71] Diner 1 leaves.
+[71] The last diner has left and the restaurant is to be closed.

@@ -1,0 +1,26 @@
+00:05 - Diner 1 arrives.
+00:05 - Diner 1 is seated at table 1.
+00:05 - Cook 1 processes Diner 1's order.
+00:05 - Cook 1 uses the burger machine.
+00:10 - Cook 1 uses the fries machine.
+00:10 - Diner 2 arrives.
+00:10 - Diner 2 is seated at table 2.
+00:10 - Cook 2 processes Diner 2's order.
+00:10 - Cook 2 uses the burger machine.
+00:13 - Cook 1 uses the coke machine.
+00:14 - Diner 1's order is ready. Diner 1 starts eating.
+00:15 - Cook 2 uses the burger machine.
+00:20 - Cook 2 uses the coke machine.
+00:21 - Diner 2's order is ready. Diner 2 starts eating.
+00:44 - Diner 1 finishes. Diner 1 leaves the restaurant.
+00:51 - Diner 2 finishes. Diner 2 leaves the restaurant.
+01:00 - Diner 3 arrives.
+01:00 - Diner 3 is seated at table 1.
+01:00 - Cook 1 processes Diner 3's order.
+01:00 - Cook 1 uses the burger machine.
+01:05 - Cook 1 uses the fries machine.
+01:08 - Cook 1 uses the fries machine.
+01:11 - Cook 1 uses the coke machine.
+01:12 - Diner 3's order is ready. Diner 3 starts eating.
+01:42 - Diner 3 finishes eating. Diner 3 leaves the restaurant.
+01:42 - The last diner leaves the restaurant.
