@@ -7,12 +7,8 @@
 #	/*.java
 # /target
 # 	/*.class
-# input-1.txt
-# input-2.txt
-# input-3.txt
-# input-4.txt
-# input-5.txt
-# output.txt
+# /input
+# 	*.txt
 
 # set the entry of the java application
 ENTRY_POINT = App
