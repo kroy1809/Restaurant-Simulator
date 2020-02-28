@@ -9,6 +9,8 @@
 # 	/*.class
 # /input
 # 	*.txt
+# /output
+# 	*.txt
 
 # set the entry of the java application
 ENTRY_POINT = App
